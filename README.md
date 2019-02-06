@@ -2,8 +2,9 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-Don’t get scared by the number of points below. Most of it is NOT graded and is optional for you to try on your own.
 Here is what you will need to complete the assignment:
+
+
 (If you haven’t already) Create a GitHub.com account and a repository that you will use for this class.
 
 
